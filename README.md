@@ -1,4 +1,4 @@
-__Patient Management System__
+__Patient Management System_
     
 Welcome to the **Patient Management System**, a powerful and scalable RESTful API built with Spring Boot for managing patient records in a healthcare ecosystem. 
 Hosted at https://github.com/gauri135/PatientManagementSystem, this project offers robust CRUD operations,
