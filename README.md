@@ -146,7 +146,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Maintainer: Gauri (gauri135)
 Issues: Open a ticket on GitHub Issues
-Email: Reach out via [rokadegauri56@hmail.com]
+Email: Reach out via [rokadegauri56@gmail.com]
 
 
 ⭐ Star this repository on GitHub to support the project!Happy coding! 🚀
